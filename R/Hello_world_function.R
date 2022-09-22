@@ -7,6 +7,7 @@
 #' @export
 #'
 #' @examples
+#' hello_world()
 hello_world <- function(my_name = "James"){
   
   cat(paste0("Hello World! My name is ", as.character(my_name), " :) \n"))

@@ -15,3 +15,6 @@ The function prints a string
 \description{
 Hello World
 }
+\examples{
+hello_world()
+}
