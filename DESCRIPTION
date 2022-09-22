@@ -1,10 +1,11 @@
 Package: minidplyr
-Title: What the Package Does (One Line, Title Case)
+Title: A test package created in connection to the Course Advanced R
 Version: 0.0.1
 Authors@R: 
     person("Jette", "Steinbach", , "jst.ncrr@au.dk", role = c("aut", "cre"),
-           comment = c(ORCID = "Not available at the moment"))
-Description: What the package does (one paragraph).
+           comment = c(ORCID = "Not_available_at_the_moment"))
+Description: This package was created in connection to the Course Advanced 
+  R that was held by Florian Prive in September 2022.
 License: GPL (>= 3)
 Encoding: UTF-8
 Licence: GPL-3
@@ -12,6 +13,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Imports: 
     randomNames
-Suggests: 
+Suggests:
+    spelling, 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Language: en-US
