@@ -5,8 +5,7 @@ Authors@R:
     person("Jette", "Steinbach", , "jst.ncrr@au.dk", role = c("aut", "cre"),
            comment = c(ORCID = "Not available at the moment"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: GPL (>= 3)
 Encoding: UTF-8
 Licence: GPL-3
 Roxygen: list(markdown = TRUE)
