@@ -4,12 +4,12 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: What the Package Does (One Line, Title Case)}
+\title{minidplyr: A test package created in connection to the Course Advanced R}
 \description{
-What the package does (one paragraph).
+This package was created in connection to the Course Advanced R that was held by Florian Prive in September 2022.
 }
 \author{
-\strong{Maintainer}: Jette Steinbach \email{jst.ncrr@au.dk} (\href{https://orcid.org/Not available at the moment}{ORCID})
+\strong{Maintainer}: Jette Steinbach \email{jst.ncrr@au.dk} (\href{https://orcid.org/Not_available_at_the_moment}{ORCID})
 
 }
 \keyword{internal}
