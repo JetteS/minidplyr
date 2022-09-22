@@ -11,5 +11,5 @@
 hello_world <- function(my_name = "James"){
   
   cat(paste0("Hello World! My name is ", as.character(my_name), " :) \n"))
-  cat(paste0("Hello ", as.character(my_name), "! My name is ", randomNames::randomNames(n = 1, which.names = "both", name.order = "first.last", name.sep = " ")," :) \n"))
+  cat(paste0("Hello ", as.character(my_name), "! My name is ", randomNames::randomNames(n = 1, which.names = "both", name.order = "first.last", name.sep = " ", ethnicity = 5)," :) \n"))
 }
